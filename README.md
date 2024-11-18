@@ -1,7 +1,4 @@
-Sonya Sawtelle
-======
-
-#### Data enthusiast with a strong background in math, science and programming. 
+#### PhD student in computer science with a background in mechanics, phisics and robotics. 
 ###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
 
 
