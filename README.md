@@ -1,7 +1,8 @@
 # Chiara Daini  
 #### PhD Student in Computer Science  
-###### [chiara.daini@inria.fr](mailto:chiara.daini@inria.fr)  
-
+## Contact  
+- **Email:** [chiara.daini@inria.fr](mailto:chiara.daini@inria.fr)  
+- **GitHub:** [chiaradaini](https://github.com/chiaradaini) 
 ---
 
 ## Education  
@@ -9,6 +10,12 @@
 Sycomores Team, Inria Lille (2021–Present)  
 **Subject:** Optimization of CNN Inference in Real-Time Systems  
 **Supervisors:** Giuseppe Lipari (University of Lille) and Houssam Eddine Zahaf (University of Nantes)  
+
+**Master’s in Automation Engineering**  
+University of Pavia (2019–2021)  
+
+**Bachelor’s in Industrial Engineering**  
+University of Pavia (2012–2015)  
 
 Experience
 ---------
