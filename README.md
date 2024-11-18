@@ -39,6 +39,25 @@ Milan, Lombardy, Italy
 
 ---
 
+Publications
+------------
+**[Centralized Traffic Control via Small Fleets of Connected and Automated Vehicles]([#](https://ieeexplore.ieee.org/abstract/document/9838305))**  
+C. Daini, P. Goatin, M.L. Delle Monache, A. Ferrara  
+*2022 European Control Conference (ECC)*, 371–376, 2022  
+
+**[Interacting Moving Bottlenecks in Traffic Flow](https://hal.science/hal-04337346/)**  
+P. Goatin, C. Daini, M.L. Delle Monache, A. Ferrara  
+*Networks and Heterogeneous Media* 18 (2), 930–945, 2023  
+
+**[Traffic Control via Fleets of Connected and Automated Vehicles](https://hal.science/hal-04366870/)**  
+C. Daini, M.L. Delle Monache, P. Goatin, A. Ferrara  
+2023  
+
+**[Work In Progress: A New Task Model for Real-Time DNNs Over GPU](https://ieeexplore.ieee.org/abstract/document/10155716)**  
+M. Dridi, Y. Abdeddaim, C. Daini  
+*2023 IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS)*, 2023  
+
+
 ## Background  
 Strong foundation in **mechanics**, **physics**, and **robotics**, with a focus on applying these skills to real-time computational problems and artificial intelligence.
 
