@@ -1,8 +1,6 @@
 # Chiara Daini  
 #### PhD Student in Computer Science  
-## Contact  
-- **Email:** [chiara.daini@inria.fr](mailto:chiara.daini@inria.fr)  
-- **GitHub:** [chiaradaini](https://github.com/chiaradaini) 
+###### [chiara.daini@inria.fr](mailto:chiara.daini@inria.fr)  
 ---
 
 ## Education  
@@ -17,15 +15,28 @@ University of Pavia (2019–2021)
 **Bachelor’s in Industrial Engineering**  
 University of Pavia (2012–2015)  
 
-Experience
----------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+## Professional Experience  
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+**Internship Trainee**  
+Inria (Mar 2021–Nov 2021)  
+Nice, Provence-Alpes-Côte d'Azur, France (On-site)  
+- Conducted research for the **master’s thesis project** on **macroscopic traffic control** with the integration of CAVs (Connected Autonomous Vehicles).  
+- Acquired advanced skills in **system and control theory**.  
+- Formulated and implemented mathematical models of vehicular flow using **partial and ordinary differential equations**.  
+- Laid the groundwork for future in-depth academic studies in control systems.  
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
-
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+**Application Engineer**  
+Rollon (2015–2021)  
+Milan, Lombardy, Italy (On-site)  
+- Provided **pre- and post-sale technical support**:  
+  - Created technical sales documentation.  
+  - Supported client projects, including component definition (e.g., cable carrier, gearbox, motor sizing).  
+- Led market-wide analyses to identify innovation opportunities based on customer needs.  
+- Served as **Product Market Lead** for Italy and Japan:  
+  - Designed and delivered **innovative linear system automation solutions** in collaboration with key customers and internal teams.  
+- **Training Coordinator**:  
+  - Planned and taught 50+ training sessions globally for vendors, sales engineers, and application engineers.  
+  - Delivered courses on the technical aspects of Rollon’s linear systems.  
 
 Skills
 ------
