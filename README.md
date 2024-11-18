@@ -6,9 +6,9 @@
 
 ## Education  
 **Ph.D. in Computer Science**  
-Sycomores Team, Inria Lille (2021–Present)  
+[Sycomores Team, Inria Lille](https://team.inria.fr/sycomores/) (2021–Present)  
 **Subject:** Optimization of CNN Inference in Real-Time Systems  
-**Supervisors:** Giuseppe Lipari (University of Lille) and Houssam Eddine Zahaf (University of Nantes)  
+**Supervisors:** [Giuseppe Lipari](https://pro.univ-lille.fr/giuseppe-lipari) (University of Lille) and [Houssam Eddine Zahaf](https://pagesperso.ls2n.fr/~zahaf-h/) (University of Nantes)  
 
 **Master’s in Automation Engineering**  
 University of Pavia (2019–2021)  
@@ -57,6 +57,7 @@ C. Daini, M.L. Delle Monache, P. Goatin, A. Ferrara
 M. Dridi, Y. Abdeddaim, C. Daini  
 *2023 IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS)*, 2023  
 
+---
 
 ## Background  
 Strong foundation in **mechanics**, **physics**, and **robotics**, with a focus on applying these skills to real-time computational problems and artificial intelligence.
