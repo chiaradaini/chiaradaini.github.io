@@ -1,21 +1,14 @@
-#### PhD student in computer science with a background in mechanics, phisics and robotics. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+# Chiara Daini  
+#### PhD Student in Computer Science  
+###### [chiara.daini@inria.fr](mailto:chiara.daini@inria.fr)  
 
+---
 
-Education
----------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
-
-- Research on transport in metal nanostructures. 
-- Coursework in physics, engineering, and statistics.
-
-**B.S. in Physics, Indiana University** (2008-2011)
-
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
-
-**MOOCs** (ongoing)
-
-- Machine Learning (Stanford, Andrew Ng)
+## Education  
+**Ph.D. in Computer Science**  
+Sycomores Team, Inria Lille (2021–Present)  
+**Subject:** Optimization of CNN Inference in Real-Time Systems  
+**Supervisors:** Giuseppe Lipari (University of Lille) and Houssam Eddine Zahaf (University of Nantes)  
 
 Experience
 ---------
