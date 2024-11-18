@@ -12,9 +12,11 @@ Sycomores Team, Inria Lille (2021–Present)
 
 **Master’s in Automation Engineering**  
 University of Pavia (2019–2021)  
+Pavia, Lombardy, Italy
 
 **Bachelor’s in Industrial Engineering**  
-University of Pavia (2012–2015)  
+University of Pavia (2012–2015)
+Pavia, Lombardy, Italy
 
 ---
 
@@ -22,14 +24,14 @@ University of Pavia (2012–2015)
 
 **Internship Trainee**  
 Inria (Mar 2021–Nov 2021)  
-Nice, Provence-Alpes-Côte d'Azur, France (On-site)  
+Nice, Provence-Alpes-Côte d'Azur, France
 - Conducted research for the **master’s thesis project** on **macroscopic traffic control** with the integration of CAVs (Connected Autonomous Vehicles).  
 - Acquired advanced skills in **system and control theory**.  
 - Formulated and implemented mathematical models of vehicular flow using **partial and ordinary differential equations**.  
 
 **Application Engineer**  
 Rollon (2015–2021)  
-Milan, Lombardy, Italy (On-site)  
+Milan, Lombardy, Italy
 - Provided **pre- and post-sale technical support**:  
 - Led market-wide analyses to identify innovation opportunities based on customer needs.  
 - Served as **Product Market Lead** for Italy and Japan:  
